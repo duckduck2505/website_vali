@@ -1,0 +1,4 @@
+B1: Truy cập vào Heidi và tạo database tên là *datab*.
+/!\ Copy code trong file datab.sql.
+
+B2: Tại file controlLogin, tại dòng 36 sửa lại tên nhap.php thành file mà bạn muốn chuyển hướng khi đăng nhập thành công. 
